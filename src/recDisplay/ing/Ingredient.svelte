@@ -142,10 +142,11 @@
  /* .ing :global(td) {
     padding-top: 3px;
     padding-bottom: 3px;
-    } */
+    }
  .ing :global(.amount,.unit,.item) {
      font-family: var(--recipeFont);     
  }
+*/
 
  .ing :global(.amount) {
      white-space : nowrap;
